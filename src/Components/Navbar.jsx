@@ -24,8 +24,8 @@ const Navbar = () => {
     return ( 
         <>
         <nav>
-            <div id="logo">Portfolio</div>
-                <ul id="sidemenu">
+            <div id="logo">Sheela</div>
+                <ul onMouseLeave={closemenu} id="sidemenu">
                         <li><Link to="/">Home</Link></li>
                         <li><Link to="about">About</Link></li>
                         <li><Link to="services">Services</Link></li>
