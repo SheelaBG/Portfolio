@@ -380,16 +380,16 @@ display: none;
  }
 
  #about{
-  padding: 20px 0;
+  padding: 20px 0px;
   }
   .row{
-    padding: 0 50px;
+    padding: 0 30px;
   }
  .subTitle{
   font-size:30px;
  }
  .about-col-1,.about-col-2 {
-  flex-basis:70%;
+  flex-basis:65%;
  }
  .about-col-1{
   margin-bottom: 20px;
